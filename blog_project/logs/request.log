@@ -1,0 +1,520 @@
+2017-08-31 21:25:46,199 [Thread-7:8032] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-08-31 21:25:46,293 [Thread-8:1156] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-08-31 21:25:46,346 [Thread-9:10068] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-08-31 21:25:46,358 [Thread-10:9348] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2017-08-31 21:25:46,373 [Thread-11:8368] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2017-08-31 21:25:47,187 [Thread-25:8120] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-09-14 08:55:16,014 [Thread-7:7500] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-09-14 08:55:16,024 [Thread-9:6392] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-09-14 08:55:16,029 [Thread-8:4884] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-09-14 08:55:16,033 [Thread-10:8716] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2017-09-14 08:55:16,041 [Thread-11:7028] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2017-09-14 08:55:18,208 [Thread-25:892] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-09-14 08:55:22,855 [Thread-27:268] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-09-14 08:55:22,858 [Thread-28:7268] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-09-14 08:55:22,860 [Thread-29:8760] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-09-14 08:55:22,866 [Thread-30:5680] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2017-09-14 08:55:22,869 [Thread-31:7100] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2017-09-14 08:55:24,850 [Thread-33:7004] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-09-14 08:55:24,856 [Thread-34:4476] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-09-14 08:55:24,929 [Thread-35:2916] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-09-14 08:55:24,942 [Thread-37:7384] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2017-09-14 08:55:24,947 [Thread-36:4792] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2017-09-14 08:55:26,991 [Thread-39:3632] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-09-14 08:55:26,994 [Thread-41:7888] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-09-14 08:55:26,996 [Thread-40:8200] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-09-14 08:55:26,998 [Thread-42:6028] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2017-09-14 08:55:27,003 [Thread-43:8564] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2017-09-14 08:55:53,696 [Thread-49:8936] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-09-14 08:55:53,700 [Thread-50:4624] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-09-14 08:55:53,725 [Thread-51:7944] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-09-14 08:55:53,744 [Thread-52:5528] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2017-09-14 08:55:53,751 [Thread-53:8692] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2017-09-14 08:56:08,988 [Thread-55:4092] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-09-14 08:56:08,993 [Thread-56:3260] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-09-14 08:56:09,015 [Thread-57:7776] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-09-14 08:56:09,019 [Thread-59:3780] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2017-09-14 08:56:09,020 [Thread-58:3000] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2017-09-14 08:56:28,651 [Thread-60:8160] [django.request:152] [base:get_response] [WARNING]- Not Found: /c.html
+2017-09-14 08:56:34,490 [Thread-61:7308] [django.request:152] [base:get_response] [WARNING]- Not Found: /news.html
+2017-09-14 08:56:36,684 [Thread-62:4624] [django.request:152] [base:get_response] [WARNING]- Not Found: /index.html
+2017-12-01 15:25:56,085 [Thread-7:7004] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-12-01 15:25:56,090 [Thread-8:8008] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-12-01 15:25:56,393 [Thread-9:2272] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-12-01 15:25:56,395 [Thread-10:6924] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2017-12-01 15:25:56,400 [Thread-11:3384] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2017-12-01 15:25:59,355 [Thread-25:7628] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-12-05 23:27:55,711 [Thread-7:7736] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-12-05 23:27:55,719 [Thread-8:6824] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-12-05 23:27:55,960 [Thread-9:3628] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-12-05 23:27:55,963 [Thread-10:8264] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2017-12-05 23:27:55,965 [Thread-11:3420] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2017-12-05 23:27:57,017 [Thread-25:6820] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-12-06 07:30:24,465 [Thread-38:8616] [django.request:152] [base:get_response] [WARNING]- Not Found: /admin/upload/kindeditor
+2017-12-12 22:51:15,370 [Thread-7:6352] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-12-12 22:51:15,373 [Thread-8:7560] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-12-12 22:51:15,518 [Thread-9:7564] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-12-12 22:51:15,538 [Thread-10:7736] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2017-12-12 22:51:15,541 [Thread-11:4480] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2017-12-12 22:51:16,178 [Thread-25:7360] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-12-12 22:54:42,708 [Thread-72:6352] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-12-12 22:54:42,711 [Thread-73:1616] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-12-12 22:54:42,868 [Thread-74:7280] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-12-12 22:54:42,872 [Thread-75:364] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2017-12-12 22:54:42,873 [Thread-76:6076] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2017-12-12 23:20:43,740 [Thread-3:7488] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-12-12 23:20:43,743 [Thread-4:3436] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-12-12 23:20:43,777 [Thread-7:3512] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2017-12-12 23:20:43,782 [Thread-6:3128] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2017-12-12 23:20:43,788 [Thread-5:3772] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-12-12 23:21:01,694 [Thread-3:6280] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-12-12 23:21:01,696 [Thread-4:5204] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-12-12 23:21:01,718 [Thread-5:7688] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-12-12 23:21:01,722 [Thread-6:7872] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2017-12-12 23:21:01,724 [Thread-7:8180] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2017-12-12 23:21:23,959 [Thread-15:4792] [django.request:152] [base:get_response] [WARNING]- Not Found: /admin/upload/kindeditor
+2017-12-12 23:23:11,309 [Thread-3:7220] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-12-12 23:23:11,313 [Thread-4:5844] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-12-12 23:23:11,408 [Thread-6:3124] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2017-12-12 23:23:11,410 [Thread-5:6844] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-12-12 23:23:11,415 [Thread-7:3196] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2017-12-12 23:23:36,052 [Thread-14:1248] [django.request:152] [base:get_response] [WARNING]- Not Found: /admin/upload/kindeditor
+2017-12-12 23:24:14,309 [Thread-3:5400] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-12-12 23:24:14,342 [Thread-4:8108] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-12-12 23:24:14,344 [Thread-5:6900] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-12-12 23:24:14,348 [Thread-7:3192] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2017-12-12 23:24:14,349 [Thread-6:6268] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2017-12-12 23:26:47,426 [Thread-14:1928] [django.request:152] [base:get_response] [WARNING]- Not Found: /admin/upload/kindeditor
+2017-12-13 10:50:05,276 [Thread-4:2664] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-12-13 10:50:05,280 [Thread-3:2148] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-12-13 10:50:05,284 [Thread-5:6052] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-12-13 10:50:05,289 [Thread-7:2968] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2017-12-13 10:50:05,296 [Thread-6:6336] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2017-12-13 10:50:05,631 [Thread-8:3188] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-12-13 10:50:06,270 [Thread-9:7332] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-12-13 10:50:40,728 [Thread-10:2116] [django.request:135] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /admin/
+Traceback (most recent call last):
+  File "D:\Demos\PyEnv\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "D:\Demos\PyEnv\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\Demos\PyEnv\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Demos\PyEnv\lib\site-packages\django\contrib\admin\sites.py", line 242, in wrapper
+    return self.admin_view(view, cacheable)(*args, **kwargs)
+  File "D:\Demos\PyEnv\lib\site-packages\django\utils\decorators.py", line 149, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "D:\Demos\PyEnv\lib\site-packages\django\views\decorators\cache.py", line 57, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "D:\Demos\PyEnv\lib\site-packages\django\contrib\admin\sites.py", line 224, in inner
+    return view(request, *args, **kwargs)
+  File "D:\Demos\PyEnv\lib\site-packages\django\views\decorators\cache.py", line 57, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "D:\Demos\PyEnv\lib\site-packages\django\contrib\admin\sites.py", line 482, in index
+    app_list = self.get_app_list(request)
+  File "D:\Demos\PyEnv\lib\site-packages\django\contrib\admin\sites.py", line 465, in get_app_list
+    app_dict = self._build_app_dict(request)
+  File "D:\Demos\PyEnv\lib\site-packages\django\contrib\admin\sites.py", line 432, in _build_app_dict
+    model_dict['admin_url'] = reverse('admin:%s_%s_changelist' % info, current_app=self.name)
+  File "D:\Demos\PyEnv\lib\site-packages\django\urls\base.py", line 60, in reverse
+    app_list = resolver.app_dict[ns]
+  File "D:\Demos\PyEnv\lib\site-packages\django\urls\resolvers.py", line 348, in app_dict
+    self._populate()
+  File "D:\Demos\PyEnv\lib\site-packages\django\urls\resolvers.py", line 288, in _populate
+    for pattern in reversed(self.url_patterns):
+TypeError: 'set' object is not reversible
+2017-12-13 10:51:17,999 [Thread-16:3264] [django.request:135] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /admin/
+Traceback (most recent call last):
+  File "D:\Demos\PyEnv\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "D:\Demos\PyEnv\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\Demos\PyEnv\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Demos\PyEnv\lib\site-packages\django\contrib\admin\sites.py", line 242, in wrapper
+    return self.admin_view(view, cacheable)(*args, **kwargs)
+  File "D:\Demos\PyEnv\lib\site-packages\django\utils\decorators.py", line 149, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "D:\Demos\PyEnv\lib\site-packages\django\views\decorators\cache.py", line 57, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "D:\Demos\PyEnv\lib\site-packages\django\contrib\admin\sites.py", line 224, in inner
+    return view(request, *args, **kwargs)
+  File "D:\Demos\PyEnv\lib\site-packages\django\views\decorators\cache.py", line 57, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "D:\Demos\PyEnv\lib\site-packages\django\contrib\admin\sites.py", line 482, in index
+    app_list = self.get_app_list(request)
+  File "D:\Demos\PyEnv\lib\site-packages\django\contrib\admin\sites.py", line 465, in get_app_list
+    app_dict = self._build_app_dict(request)
+  File "D:\Demos\PyEnv\lib\site-packages\django\contrib\admin\sites.py", line 432, in _build_app_dict
+    model_dict['admin_url'] = reverse('admin:%s_%s_changelist' % info, current_app=self.name)
+  File "D:\Demos\PyEnv\lib\site-packages\django\urls\base.py", line 60, in reverse
+    app_list = resolver.app_dict[ns]
+  File "D:\Demos\PyEnv\lib\site-packages\django\urls\resolvers.py", line 348, in app_dict
+    self._populate()
+  File "D:\Demos\PyEnv\lib\site-packages\django\urls\resolvers.py", line 288, in _populate
+    for pattern in reversed(self.url_patterns):
+TypeError: 'set' object is not reversible
+2017-12-13 10:51:19,674 [Thread-18:1412] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-12-13 10:51:19,685 [Thread-19:7840] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-12-13 10:51:19,697 [Thread-20:8004] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-12-13 10:51:19,700 [Thread-22:6440] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2017-12-13 10:51:19,718 [Thread-21:6792] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2017-12-13 10:51:41,838 [Thread-23:6444] [django.request:135] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /admin/
+Traceback (most recent call last):
+  File "D:\Demos\PyEnv\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "D:\Demos\PyEnv\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\Demos\PyEnv\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Demos\PyEnv\lib\site-packages\django\contrib\admin\sites.py", line 242, in wrapper
+    return self.admin_view(view, cacheable)(*args, **kwargs)
+  File "D:\Demos\PyEnv\lib\site-packages\django\utils\decorators.py", line 149, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "D:\Demos\PyEnv\lib\site-packages\django\views\decorators\cache.py", line 57, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "D:\Demos\PyEnv\lib\site-packages\django\contrib\admin\sites.py", line 224, in inner
+    return view(request, *args, **kwargs)
+  File "D:\Demos\PyEnv\lib\site-packages\django\views\decorators\cache.py", line 57, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "D:\Demos\PyEnv\lib\site-packages\django\contrib\admin\sites.py", line 482, in index
+    app_list = self.get_app_list(request)
+  File "D:\Demos\PyEnv\lib\site-packages\django\contrib\admin\sites.py", line 465, in get_app_list
+    app_dict = self._build_app_dict(request)
+  File "D:\Demos\PyEnv\lib\site-packages\django\contrib\admin\sites.py", line 432, in _build_app_dict
+    model_dict['admin_url'] = reverse('admin:%s_%s_changelist' % info, current_app=self.name)
+  File "D:\Demos\PyEnv\lib\site-packages\django\urls\base.py", line 60, in reverse
+    app_list = resolver.app_dict[ns]
+  File "D:\Demos\PyEnv\lib\site-packages\django\urls\resolvers.py", line 348, in app_dict
+    self._populate()
+  File "D:\Demos\PyEnv\lib\site-packages\django\urls\resolvers.py", line 288, in _populate
+    for pattern in reversed(self.url_patterns):
+TypeError: 'set' object is not reversible
+2017-12-13 10:52:08,090 [Thread-3:7648] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-12-13 10:52:08,094 [Thread-4:1424] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-12-13 10:52:08,116 [Thread-6:592] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2017-12-13 10:52:08,120 [Thread-5:6748] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-12-13 10:52:08,130 [Thread-7:1028] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2017-12-13 10:52:12,015 [Thread-8:3260] [django.request:135] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /admin/
+Traceback (most recent call last):
+  File "D:\Demos\PyEnv\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "D:\Demos\PyEnv\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\Demos\PyEnv\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Demos\PyEnv\lib\site-packages\django\contrib\admin\sites.py", line 242, in wrapper
+    return self.admin_view(view, cacheable)(*args, **kwargs)
+  File "D:\Demos\PyEnv\lib\site-packages\django\utils\decorators.py", line 149, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "D:\Demos\PyEnv\lib\site-packages\django\views\decorators\cache.py", line 57, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "D:\Demos\PyEnv\lib\site-packages\django\contrib\admin\sites.py", line 224, in inner
+    return view(request, *args, **kwargs)
+  File "D:\Demos\PyEnv\lib\site-packages\django\views\decorators\cache.py", line 57, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "D:\Demos\PyEnv\lib\site-packages\django\contrib\admin\sites.py", line 482, in index
+    app_list = self.get_app_list(request)
+  File "D:\Demos\PyEnv\lib\site-packages\django\contrib\admin\sites.py", line 465, in get_app_list
+    app_dict = self._build_app_dict(request)
+  File "D:\Demos\PyEnv\lib\site-packages\django\contrib\admin\sites.py", line 432, in _build_app_dict
+    model_dict['admin_url'] = reverse('admin:%s_%s_changelist' % info, current_app=self.name)
+  File "D:\Demos\PyEnv\lib\site-packages\django\urls\base.py", line 60, in reverse
+    app_list = resolver.app_dict[ns]
+  File "D:\Demos\PyEnv\lib\site-packages\django\urls\resolvers.py", line 348, in app_dict
+    self._populate()
+  File "D:\Demos\PyEnv\lib\site-packages\django\urls\resolvers.py", line 288, in _populate
+    for pattern in reversed(self.url_patterns):
+TypeError: 'set' object is not reversible
+2017-12-13 10:55:05,471 [Thread-4:3356] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-12-13 10:55:05,475 [Thread-3:6052] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-12-13 10:55:05,506 [Thread-5:2168] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-12-13 10:55:05,508 [Thread-7:2292] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2017-12-13 10:55:05,513 [Thread-6:8152] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2017-12-13 10:55:05,538 [Thread-8:1712] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-12-13 10:55:06,337 [Thread-9:4664] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-12-13 10:55:53,731 [Thread-18:2236] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-12-13 10:55:53,733 [Thread-19:4720] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-12-13 10:55:53,750 [Thread-20:860] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-12-13 10:55:53,755 [Thread-22:5280] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2017-12-13 10:55:53,756 [Thread-21:3340] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2017-12-13 10:56:43,846 [Thread-28:6084] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-12-13 10:56:43,875 [Thread-29:6380] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-12-13 10:56:43,880 [Thread-30:6036] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-12-13 10:56:43,882 [Thread-32:2248] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2017-12-13 10:56:43,882 [Thread-31:7992] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2017-12-13 10:57:03,912 [Thread-38:2168] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-12-13 10:57:03,915 [Thread-39:7728] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-12-13 10:57:03,935 [Thread-40:5696] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-12-13 10:57:03,938 [Thread-41:3356] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2017-12-13 10:57:03,941 [Thread-42:6320] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2017-12-13 11:03:49,739 [Thread-12:6792] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-12-13 11:03:49,842 [Thread-13:3440] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2017-12-13 11:03:49,856 [Thread-14:7192] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2017-12-13 11:03:49,870 [Thread-15:3100] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2017-12-13 11:03:49,887 [Thread-16:2404] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2017-12-13 11:04:21,914 [Thread-25:5680] [django.request:152] [base:get_response] [WARNING]- Not Found: /admin/upload/kindeditor
+2018-01-10 17:42:37,299 [Thread-12:9100] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2018-01-10 17:42:37,319 [Thread-13:9520] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2018-01-10 17:42:37,427 [Thread-14:3228] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2018-01-10 17:42:37,471 [Thread-16:12020] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2018-01-10 17:42:37,582 [Thread-15:5472] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2018-01-10 17:42:37,640 [Thread-17:11320] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2018-01-10 17:42:38,460 [Thread-31:11476] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2018-01-10 17:43:15,657 [Thread-72:12044] [django.request:152] [base:get_response] [WARNING]- Not Found: /admin/upload/kindeditor
+2018-01-11 13:08:32,064 [Thread-8:9392] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2018-01-11 13:08:32,109 [Thread-9:10468] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2018-01-11 13:08:32,139 [Thread-10:12228] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2018-01-11 13:08:32,784 [Thread-11:11292] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2018-01-11 13:08:32,798 [Thread-12:5944] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2018-01-11 13:09:11,356 [Thread-19:1328] [django.request:152] [base:get_response] [WARNING]- Not Found: /admin/upload/kindeditor
+2018-01-11 13:15:34,586 [Thread-9:2808] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2018-01-11 13:15:34,657 [Thread-8:3696] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2018-01-11 13:15:34,737 [Thread-12:832] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2018-01-11 13:15:34,750 [Thread-10:9388] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2018-01-11 13:15:34,767 [Thread-11:2912] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2018-01-11 13:15:34,848 [Thread-13:11440] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2018-01-11 13:16:46,287 [Thread-22:8680] [django.request:152] [base:get_response] [WARNING]- Not Found: /admin/upload/kindeditor
+2018-01-11 13:21:12,377 [Thread-23:10612] [django.request:152] [base:get_response] [WARNING]- Not Found: /admin/upload/kindeditor
+2018-01-11 13:23:32,647 [Thread-8:8988] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2018-01-11 13:23:32,683 [Thread-9:4492] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2018-01-11 13:23:32,685 [Thread-10:1432] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2018-01-11 13:23:32,701 [Thread-12:7284] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2018-01-11 13:23:32,711 [Thread-11:10468] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2018-01-11 13:23:48,656 [Thread-19:11032] [django.request:152] [base:get_response] [WARNING]- Not Found: /admin/upload/kindeditor
+2018-01-11 13:55:17,187 [Thread-8:11764] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2018-01-11 13:55:17,203 [Thread-9:9204] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2018-01-11 13:55:17,217 [Thread-10:11668] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2018-01-11 13:55:17,232 [Thread-11:11404] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2018-01-11 13:55:17,248 [Thread-12:11340] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2018-01-11 13:55:32,326 [Thread-19:11748] [django.request:152] [base:get_response] [WARNING]- Not Found: /admin/upload/kindeditor
+2018-01-11 15:32:06,638 [Thread-3:12180] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2018-01-11 15:32:06,641 [Thread-4:4560] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2018-01-11 15:32:06,660 [Thread-7:5560] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2018-01-11 15:32:06,662 [Thread-6:10884] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2018-01-11 15:32:06,665 [Thread-5:9748] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2018-01-11 15:35:11,776 [Thread-25:11232] [django.request:152] [base:get_response] [WARNING]- Not Found: /admin/upload
+2018-01-11 15:35:40,964 [Thread-31:11488] [django.request:152] [base:get_response] [WARNING]- Not Found: /admin/upload/kindeditor/2018/1
+2018-01-11 15:35:48,162 [Thread-32:11768] [django.request:152] [base:get_response] [WARNING]- Not Found: /admin/upload/kindeditor/2018/1/1e3b5c7a-f695-11e7-9225-20689d2ab9ee.jpg
+2018-01-11 15:35:55,093 [Thread-37:3616] [django.request:152] [base:get_response] [WARNING]- Not Found: /admin/blog/upload/kindeditor/2018/1/1e3b5c7a-f695-11e7-9225-20689d2ab9ee.jpg
+2018-01-11 15:36:35,259 [Thread-43:2552] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog
+2018-01-11 15:36:43,059 [Thread-44:5640] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/admin.py
+2018-01-11 15:36:47,997 [Thread-46:3428] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/admin
+2018-01-11 15:37:31,195 [Thread-47:11768] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog/test.html
+2018-01-11 15:37:46,727 [Thread-48:2836] [django.request:152] [base:get_response] [WARNING]- Not Found: /test.html
+2018-01-11 15:38:07,079 [Thread-49:9440] [django.request:152] [base:get_response] [WARNING]- Not Found: /logs/all.log
+2018-01-11 15:40:46,957 [Thread-1:9104] [django.request:135] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\Demos\PyEnv\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "D:\Demos\PyEnv\lib\site-packages\django\utils\deprecation.py", line 138, in __call__
+    response = self.process_request(request)
+  File "D:\Demos\PyEnv\lib\site-packages\django\middleware\common.py", line 57, in process_request
+    host = request.get_host()
+  File "D:\Demos\PyEnv\lib\site-packages\django\http\request.py", line 105, in get_host
+    if domain and validate_host(domain, allowed_hosts):
+  File "D:\Demos\PyEnv\lib\site-packages\django\http\request.py", line 579, in validate_host
+    if pattern == '*' or is_same_domain(host, pattern):
+  File "D:\Demos\PyEnv\lib\site-packages\django\utils\http.py", line 291, in is_same_domain
+    pattern = pattern.lower()
+AttributeError: 'bool' object has no attribute 'lower'
+2018-01-11 15:40:47,667 [Thread-3:3096] [django.request:135] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\Demos\PyEnv\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "D:\Demos\PyEnv\lib\site-packages\django\utils\deprecation.py", line 138, in __call__
+    response = self.process_request(request)
+  File "D:\Demos\PyEnv\lib\site-packages\django\middleware\common.py", line 57, in process_request
+    host = request.get_host()
+  File "D:\Demos\PyEnv\lib\site-packages\django\http\request.py", line 105, in get_host
+    if domain and validate_host(domain, allowed_hosts):
+  File "D:\Demos\PyEnv\lib\site-packages\django\http\request.py", line 579, in validate_host
+    if pattern == '*' or is_same_domain(host, pattern):
+  File "D:\Demos\PyEnv\lib\site-packages\django\utils\http.py", line 291, in is_same_domain
+    pattern = pattern.lower()
+AttributeError: 'bool' object has no attribute 'lower'
+2018-01-11 15:41:04,737 [Thread-4:9592] [django.request:135] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /blog
+Traceback (most recent call last):
+  File "D:\Demos\PyEnv\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "D:\Demos\PyEnv\lib\site-packages\django\utils\deprecation.py", line 138, in __call__
+    response = self.process_request(request)
+  File "D:\Demos\PyEnv\lib\site-packages\django\middleware\common.py", line 57, in process_request
+    host = request.get_host()
+  File "D:\Demos\PyEnv\lib\site-packages\django\http\request.py", line 105, in get_host
+    if domain and validate_host(domain, allowed_hosts):
+  File "D:\Demos\PyEnv\lib\site-packages\django\http\request.py", line 579, in validate_host
+    if pattern == '*' or is_same_domain(host, pattern):
+  File "D:\Demos\PyEnv\lib\site-packages\django\utils\http.py", line 291, in is_same_domain
+    pattern = pattern.lower()
+AttributeError: 'bool' object has no attribute 'lower'
+2018-01-11 15:41:10,876 [Thread-5:8628] [django.request:135] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /blog
+Traceback (most recent call last):
+  File "D:\Demos\PyEnv\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "D:\Demos\PyEnv\lib\site-packages\django\utils\deprecation.py", line 138, in __call__
+    response = self.process_request(request)
+  File "D:\Demos\PyEnv\lib\site-packages\django\middleware\common.py", line 57, in process_request
+    host = request.get_host()
+  File "D:\Demos\PyEnv\lib\site-packages\django\http\request.py", line 105, in get_host
+    if domain and validate_host(domain, allowed_hosts):
+  File "D:\Demos\PyEnv\lib\site-packages\django\http\request.py", line 579, in validate_host
+    if pattern == '*' or is_same_domain(host, pattern):
+  File "D:\Demos\PyEnv\lib\site-packages\django\utils\http.py", line 291, in is_same_domain
+    pattern = pattern.lower()
+AttributeError: 'bool' object has no attribute 'lower'
+2018-01-11 15:41:42,208 [Thread-2:12052] [django.request:135] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\Demos\PyEnv\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "D:\Demos\PyEnv\lib\site-packages\django\utils\deprecation.py", line 138, in __call__
+    response = self.process_request(request)
+  File "D:\Demos\PyEnv\lib\site-packages\django\middleware\common.py", line 57, in process_request
+    host = request.get_host()
+  File "D:\Demos\PyEnv\lib\site-packages\django\http\request.py", line 105, in get_host
+    if domain and validate_host(domain, allowed_hosts):
+  File "D:\Demos\PyEnv\lib\site-packages\django\http\request.py", line 579, in validate_host
+    if pattern == '*' or is_same_domain(host, pattern):
+  File "D:\Demos\PyEnv\lib\site-packages\django\utils\http.py", line 291, in is_same_domain
+    pattern = pattern.lower()
+AttributeError: 'bool' object has no attribute 'lower'
+2018-01-11 15:42:24,554 [Thread-3:3232] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2018-01-11 15:42:24,576 [Thread-4:9608] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2018-01-11 15:42:24,616 [Thread-5:6100] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2018-01-11 15:42:24,694 [Thread-6:3976] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2018-01-11 15:42:24,697 [Thread-7:9348] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2018-01-11 15:43:41,812 [Thread-3:2724] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2018-01-11 15:43:41,817 [Thread-4:5544] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2018-01-11 15:43:41,824 [Thread-5:12168] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2018-01-11 15:43:41,827 [Thread-6:11408] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2018-01-11 15:43:41,830 [Thread-7:1020] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2018-01-11 15:43:41,897 [Thread-8:3292] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2018-01-11 15:43:46,223 [Thread-9:10716] [django.request:152] [base:get_response] [WARNING]- Not Found: /blog
+2018-01-11 15:44:23,435 [Thread-23:6320] [django.request:152] [base:get_response] [WARNING]- Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2018-01-11 15:44:23,438 [Thread-24:2912] [django.request:152] [base:get_response] [WARNING]- Not Found: /static/admin/js/actions.min.js
+2018-01-11 15:44:23,440 [Thread-25:5384] [django.request:152] [base:get_response] [WARNING]- Not Found: /static/admin/js/prepopulate.min.js
+2018-01-11 15:44:23,443 [Thread-26:7672] [django.request:152] [base:get_response] [WARNING]- Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2018-01-11 15:44:24,805 [Thread-29:2800] [django.request:152] [base:get_response] [WARNING]- Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2018-01-11 15:44:24,810 [Thread-30:12256] [django.request:152] [base:get_response] [WARNING]- Not Found: /static/admin/js/actions.min.js
+2018-01-11 15:44:24,811 [Thread-31:7860] [django.request:152] [base:get_response] [WARNING]- Not Found: /static/admin/js/prepopulate.min.js
+2018-01-11 15:44:24,813 [Thread-32:10504] [django.request:152] [base:get_response] [WARNING]- Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2018-01-11 15:46:02,625 [Thread-35:10628] [django.request:152] [base:get_response] [WARNING]- Not Found: /static/admin/css/base.css
+2018-01-11 15:46:02,630 [Thread-36:11464] [django.request:152] [base:get_response] [WARNING]- Not Found: /static/admin/css/login.css
+2018-01-11 15:46:03,248 [Thread-37:10780] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2018-01-11 15:46:15,910 [Thread-39:11052] [django.request:152] [base:get_response] [WARNING]- Not Found: /static/admin/css/base.css
+2018-01-11 15:46:15,914 [Thread-40:2196] [django.request:152] [base:get_response] [WARNING]- Not Found: /static/admin/css/login.css
+2018-01-11 15:46:15,934 [Thread-41:10968] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2018-01-11 15:46:21,555 [Thread-44:11320] [django.request:152] [base:get_response] [WARNING]- Not Found: /static/admin/css/base.css
+2018-01-11 15:46:21,565 [Thread-45:6684] [django.request:152] [base:get_response] [WARNING]- Not Found: /static/admin/css/forms.css
+2018-01-11 15:46:21,568 [Thread-47:3008] [django.request:152] [base:get_response] [WARNING]- Not Found: /static/admin/js/core.js
+2018-01-11 15:46:21,577 [Thread-49:10364] [django.request:152] [base:get_response] [WARNING]- Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+2018-01-11 15:46:21,578 [Thread-48:10660] [django.request:152] [base:get_response] [WARNING]- Not Found: /static/admin/js/jquery.init.js
+2018-01-11 15:46:21,582 [Thread-50:9780] [django.request:152] [base:get_response] [WARNING]- Not Found: /static/admin/js/actions.min.js
+2018-01-11 15:46:21,585 [Thread-51:12280] [django.request:152] [base:get_response] [WARNING]- Not Found: /static/admin/js/urlify.js
+2018-01-11 15:46:21,589 [Thread-52:9912] [django.request:152] [base:get_response] [WARNING]- Not Found: /static/admin/js/prepopulate.min.js
+2018-01-11 15:46:21,594 [Thread-53:8764] [django.request:152] [base:get_response] [WARNING]- Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2018-01-11 15:46:21,598 [Thread-54:7500] [django.request:152] [base:get_response] [WARNING]- Not Found: /static/js/kindeditor-4.1.10/kindeditor-min.js
+2018-01-11 15:46:21,602 [Thread-55:9652] [django.request:152] [base:get_response] [WARNING]- Not Found: /static/js/kindeditor-4.1.10/lang/zh_CN.js
+2018-01-11 15:46:21,605 [Thread-56:8208] [django.request:152] [base:get_response] [WARNING]- Not Found: /static/js/kindeditor-4.1.10/config.js
+2018-01-11 15:46:21,609 [Thread-57:7416] [django.request:152] [base:get_response] [WARNING]- Not Found: /static/admin/js/change_form.js
+2018-01-11 15:46:21,613 [Thread-58:12088] [django.request:152] [base:get_response] [WARNING]- Not Found: /static/admin/js/prepopulate_init.js
+2018-01-11 15:46:21,619 [Thread-59:8988] [django.request:152] [base:get_response] [WARNING]- Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2018-01-11 15:46:36,190 [Thread-61:9164] [django.request:152] [base:get_response] [WARNING]- Not Found: /static/admin/css/base.css
+2018-01-11 15:46:36,195 [Thread-62:9728] [django.request:152] [base:get_response] [WARNING]- Not Found: /static/admin/css/dashboard.css
+2018-01-11 15:46:45,020 [Thread-64:1432] [django.request:152] [base:get_response] [WARNING]- Not Found: /static/css/base.css
+2018-01-11 15:46:45,026 [Thread-65:4092] [django.request:152] [base:get_response] [WARNING]- Not Found: /static/css/index.css
+2018-01-11 15:46:45,029 [Thread-66:10820] [django.request:152] [base:get_response] [WARNING]- Not Found: /static/js/jquery.min.js
+2018-01-11 15:46:45,034 [Thread-67:5560] [django.request:152] [base:get_response] [WARNING]- Not Found: /static/js/sliders.js
+2018-01-11 15:46:45,040 [Thread-68:8368] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/modernizr.js
+2018-01-11 15:46:45,044 [Thread-69:7324] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2018-01-11 15:46:45,061 [Thread-70:10184] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2018-01-11 15:46:45,063 [Thread-71:4316] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2018-01-11 15:46:45,067 [Thread-72:6176] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2018-01-11 15:46:45,071 [Thread-73:2796] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2018-01-11 19:24:12,312 [Thread-4:2036] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2018-01-11 19:24:12,315 [Thread-3:5384] [django.request:152] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2018-01-11 19:24:12,321 [Thread-5:11096] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2018-01-11 19:24:12,327 [Thread-6:2840] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a3.jpg
+2018-01-11 19:24:12,329 [Thread-7:10304] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a4.jpg
+2018-01-11 19:24:12,401 [Thread-8:11932] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a1.jpg
+2018-01-11 19:24:12,409 [Thread-9:10880] [django.request:152] [base:get_response] [WARNING]- Not Found: /images/a2.jpg
+2018-01-11 19:24:18,140 [Thread-13:4088] [django.request:152] [base:get_response] [WARNING]- Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2018-01-11 19:24:18,145 [Thread-14:10968] [django.request:152] [base:get_response] [WARNING]- Not Found: /static/admin/js/actions.min.js
+2018-01-11 19:24:18,150 [Thread-15:11000] [django.request:152] [base:get_response] [WARNING]- Not Found: /static/admin/js/prepopulate.min.js
+2018-01-11 19:24:18,155 [Thread-16:10060] [django.request:152] [base:get_response] [WARNING]- Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2018-01-11 19:24:20,810 [Thread-19:3108] [django.request:152] [base:get_response] [WARNING]- Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2018-01-11 19:24:20,813 [Thread-20:10236] [django.request:152] [base:get_response] [WARNING]- Not Found: /static/admin/js/actions.min.js
+2018-01-11 19:24:20,815 [Thread-21:5620] [django.request:152] [base:get_response] [WARNING]- Not Found: /static/admin/js/prepopulate.min.js
+2018-01-11 19:24:20,817 [Thread-22:3640] [django.request:152] [base:get_response] [WARNING]- Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2018-01-11 19:24:27,278 [Thread-23:12200] [django.request:135] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /admin/upload/kindeditor
+Traceback (most recent call last):
+  File "D:\Demos\PyEnv\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "D:\Demos\PyEnv\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\Demos\PyEnv\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Demos\PyEnv\lib\site-packages\django\views\decorators\csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+TypeError: upload_image() got an unexpected keyword argument 'test'
+2018-01-11 19:25:20,335 [Thread-25:10036] [django.request:135] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /admin/upload/kindeditor
+Traceback (most recent call last):
+  File "D:\Demos\PyEnv\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "D:\Demos\PyEnv\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\Demos\PyEnv\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Demos\PyEnv\lib\site-packages\django\views\decorators\csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+TypeError: upload_image() got an unexpected keyword argument 'test'
+2018-01-11 19:26:57,190 [Thread-25:2304] [django.request:135] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /admin/upload/kindeditor
+Traceback (most recent call last):
+  File "D:\Demos\PyEnv\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "D:\Demos\PyEnv\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\Demos\PyEnv\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Demos\PyEnv\lib\site-packages\django\views\decorators\csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "D:\Demos\PyEnv\blog_project\blog\upload.py", line 20, in upload_image
+    result = image_upload(files, dir_name)
+NameError: name 'dir_name' is not defined
+2018-01-11 19:59:06,051 [Thread-12:8552] [django.request:135] [exception:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\Demos\PyEnv\lib\site-packages\django\core\handlers\exception.py", line 41, in inner
+    response = get_response(request)
+  File "D:\Demos\PyEnv\lib\site-packages\django\core\handlers\base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\Demos\PyEnv\lib\site-packages\django\core\handlers\base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Demos\PyEnv\blog_project\blog\views.py", line 13, in index
+    return render(request, 'base.html', locals())
+  File "D:\Demos\PyEnv\lib\site-packages\django\shortcuts.py", line 30, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\Demos\PyEnv\lib\site-packages\django\template\loader.py", line 67, in render_to_string
+    template = get_template(template_name, using=using)
+  File "D:\Demos\PyEnv\lib\site-packages\django\template\loader.py", line 21, in get_template
+    return engine.get_template(template_name)
+  File "D:\Demos\PyEnv\lib\site-packages\django\template\backends\django.py", line 39, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "D:\Demos\PyEnv\lib\site-packages\django\template\engine.py", line 162, in get_template
+    template, origin = self.find_template(template_name)
+  File "D:\Demos\PyEnv\lib\site-packages\django\template\engine.py", line 136, in find_template
+    name, template_dirs=dirs, skip=skip,
+  File "D:\Demos\PyEnv\lib\site-packages\django\template\loaders\base.py", line 44, in get_template
+    contents, origin, origin.template_name, self.engine,
+  File "D:\Demos\PyEnv\lib\site-packages\django\template\base.py", line 191, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "D:\Demos\PyEnv\lib\site-packages\django\template\base.py", line 230, in compile_nodelist
+    return parser.parse()
+  File "D:\Demos\PyEnv\lib\site-packages\django\template\base.py", line 486, in parse
+    raise self.error(token, e)
+  File "D:\Demos\PyEnv\lib\site-packages\django\template\base.py", line 484, in parse
+    filter_expression = self.compile_filter(token.contents)
+  File "D:\Demos\PyEnv\lib\site-packages\django\template\base.py", line 600, in compile_filter
+    return FilterExpression(token, self)
+  File "D:\Demos\PyEnv\lib\site-packages\django\template\base.py", line 700, in __init__
+    "from '%s'" % (token[upto:], token))
+django.template.exceptions.TemplateSyntaxError: Could not parse the remainder: '% SITE_NAME %' from '% SITE_NAME %'
