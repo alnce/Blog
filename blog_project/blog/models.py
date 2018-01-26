@@ -36,6 +36,7 @@ class Tag(models.Model):
 class Catagory(models.Model):
     name = models.CharField(max_length=50, verbose_name="分类名称")
     index = models.IntegerField(default=999,verbose_name="分类的排序")
+    index2 = models.IntegerField(default=999,verbose_name="分类的排序")
 
     class Meta:
         verbose_name = "分类"
@@ -52,8 +53,9 @@ class Article(models.Model):
     click_count = models.IntegerField(default=0,verbose_name="点击次数")
     is_recommend = models.BooleanField(default=False,verbose_name="是否推荐")
     date_publish = models.DateTimeField(auto_now_add=True, verbose_name='发布时间')
-    user = models.ForeignKey(User,related_name='user_article',verbose_name="用户")
-    catagory = models.ForeignKey(Catagory,related_name='catagory_article',blank=True,null=True,verbose_name="分类")
+    user = models.ForeignKey(User,on_delete="",related_name='user_article',verbose_name="用户")
+
+    catagory = models.ForeignKey(Catagory,on_delete="",related_name='catagory_article',blank=True,null=True,verbose_name="分类")
     tag = models.ManyToManyField(Tag,verbose_name="标签")
     class Meta:
         verbose_name = "文章"
@@ -67,9 +69,9 @@ class Article(models.Model):
 class Comment(models.Model):
     content = models.TextField(verbose_name="评论内容")
     date_publish = models.DateTimeField(auto_now_add=True,verbose_name="发布时间")
-    user = models.ForeignKey(User,related_name='user_comment',blank=True,verbose_name="用户")
-    article = models.ForeignKey(Article,related_name='article_comment',blank=True,null=True,verbose_name="文章")
-    pid = models.ForeignKey('self',blank=True,null=True,verbose_name="父级评论")
+    user = models.ForeignKey(User,on_delete="",related_name='user_comment',blank=True,verbose_name="用户")
+    article = models.ForeignKey(Article,on_delete="",related_name='article_comment',blank=True,null=True,verbose_name="文章")
+    pid = models.ForeignKey('self',on_delete="",blank=True,null=True,verbose_name="父级评论")
 
     class Meta:
         verbose_name = "评论"
